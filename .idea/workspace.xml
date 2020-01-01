@@ -4,21 +4,7 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="512869dc-3877-4c26-9780-7f9f83a7fd4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/testProject/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testProject.iml" afterDir="false" />
-    </list>
+    <list default="true" id="512869dc-3877-4c26-9780-7f9f83a7fd4e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Users.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="72">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               <folding>
                 <element signature="e#103#104#0" expanded="true" />
                 <element signature="e#132#133#0" expanded="true" />
@@ -80,7 +66,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -170,18 +156,26 @@
       <workItem from="1577868062246" duration="8582000" />
       <workItem from="1577885227182" duration="599000" />
       <workItem from="1577889738401" duration="327000" />
-      <workItem from="1577890120102" duration="517000" />
+      <workItem from="1577890120102" duration="889000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1577890746120</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577890746120</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11306000" />
+    <option name="totallyTimeSpent" value="11678000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2655068" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2655068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -197,7 +191,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32972974" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32972974" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" visible="true" weight="0.3295082" />
@@ -215,6 +209,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://F:/JDK/jdk/lib/src.zip!/java.base/java/lang/System.java">
@@ -250,8 +248,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Users.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="72">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           <folding>
             <element signature="e#103#104#0" expanded="true" />
             <element signature="e#132#133#0" expanded="true" />
